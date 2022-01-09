@@ -1,0 +1,80 @@
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\bin\Debug\borsaProjesi.exe.config
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\bin\Debug\borsaProjesi.exe
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\bin\Debug\borsaProjesi.pdb
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\bin\Debug\itextsharp.dll
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\bin\Debug\itextsharp.xml
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\TarimPazari.csproj.ResolveComReference.cache
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\borsaProjesi.AdminForm.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\borsaProjesi.GirisControl.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\borsaProjesi.MainScreen.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\borsaProjesi.FormScreens.GecmisAlisverisListele.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\borsaProjesi.Properties.Resources.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\borsaProjesi.SignUp.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\borsaProjesi.SiparislerimListele.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\TarimPazari.csproj.GenerateResource.cache
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\TarimPazari.csproj.CoreCompileInputs.cache
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\TarimPazari.csproj.CopyComplete
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\borsaProjesi.exe
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\borsaProjesi.pdb
+C:\Users\NSD\Desktop\borsaProjesi-main\borsaProjesi-main\obj\Debug\TarimPazari.csprojAssemblyReference.cache
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\bin\Debug\borsaProjesi.exe.config
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\bin\Debug\borsaProjesi.exe
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\bin\Debug\borsaProjesi.pdb
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\bin\Debug\itextsharp.dll
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\bin\Debug\itextsharp.xml
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\TarimPazari.csprojAssemblyReference.cache
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\TarimPazari.csproj.ResolveComReference.cache
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\borsaProjesi.AdminForm.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\borsaProjesi.GirisControl.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\borsaProjesi.MainScreen.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\borsaProjesi.FormScreens.GecmisAlisverisListele.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\borsaProjesi.Properties.Resources.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\borsaProjesi.SignUp.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\borsaProjesi.SiparislerimListele.resources
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\TarimPazari.csproj.GenerateResource.cache
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\TarimPazari.csproj.CoreCompileInputs.cache
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\TarimPazari.csproj.CopyComplete
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\borsaProjesi.exe
+C:\Users\NSD\Desktop\borsaProjesi-main\TarimPazari\obj\Debug\borsaProjesi.pdb
+C:\Users\NSD\Desktop\Yeni klasör\bin\Debug\borsaProjesi.exe.config
+C:\Users\NSD\Desktop\Yeni klasör\bin\Debug\borsaProjesi.exe
+C:\Users\NSD\Desktop\Yeni klasör\bin\Debug\borsaProjesi.pdb
+C:\Users\NSD\Desktop\Yeni klasör\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\NSD\Desktop\Yeni klasör\bin\Debug\itextsharp.dll
+C:\Users\NSD\Desktop\Yeni klasör\bin\Debug\itextsharp.xml
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\TarimPazari.csprojAssemblyReference.cache
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\TarimPazari.csproj.ResolveComReference.cache
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\borsaProjesi.AdminForm.resources
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\borsaProjesi.GirisControl.resources
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\borsaProjesi.MainScreen.resources
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\borsaProjesi.FormScreens.GecmisAlisverisListele.resources
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\borsaProjesi.Properties.Resources.resources
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\borsaProjesi.SignUp.resources
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\borsaProjesi.SiparislerimListele.resources
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\TarimPazari.csproj.GenerateResource.cache
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\TarimPazari.csproj.CoreCompileInputs.cache
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\TarimPazari.csproj.CopyComplete
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\borsaProjesi.exe
+C:\Users\NSD\Desktop\Yeni klasör\obj\Debug\borsaProjesi.pdb
+C:\Users\NSD\Desktop\yed\Yeni klasör\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\NSD\Desktop\yed\Yeni klasör\bin\Debug\itextsharp.dll
+C:\Users\NSD\Desktop\yed\Yeni klasör\bin\Debug\itextsharp.xml
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\TarimPazari.csprojAssemblyReference.cache
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\TarimPazari.csproj.ResolveComReference.cache
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\borsaProjesi.AdminForm.resources
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\borsaProjesi.GirisControl.resources
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\borsaProjesi.MainScreen.resources
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\borsaProjesi.FormScreens.GecmisAlisverisListele.resources
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\borsaProjesi.SignUp.resources
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\borsaProjesi.SiparislerimListele.resources
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\TarimPazari.csproj.GenerateResource.cache
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\TarimPazari.csproj.CoreCompileInputs.cache
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\TarimPazari.csproj.CopyComplete
+C:\Users\NSD\Desktop\yed\Yeni klasör\bin\Debug\TarimPazari.exe.config
+C:\Users\NSD\Desktop\yed\Yeni klasör\bin\Debug\TarimPazari.exe
+C:\Users\NSD\Desktop\yed\Yeni klasör\bin\Debug\TarimPazari.pdb
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\TarimPazari.Properties.Resources.resources
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\TarimPazari.exe
+C:\Users\NSD\Desktop\yed\Yeni klasör\obj\Debug\TarimPazari.pdb
