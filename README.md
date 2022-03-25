@@ -1,12 +1,12 @@
 # Market-Otomasyonu
 **Ürün alış-veriş platformu** <br>
-![alt text](https://imgyukle.com/f/2022/01/09/oLWT31.png) <br>
+![alt text](https://mryed.com/wp-content/uploads/2022/02/c-borsa-proje.png) <br>
 Login Ekranı <br>
-![alt text](https://imgyukle.com/f/2022/01/09/oL2hms.png) <br>
+![alt text](https://mryed.com/wp-content/uploads/2022/02/c-uyelik-girisi.png) <br>
 Üyelik Paneli <br>
 Admin Giriş: admin Şifre: 123 <br>
 Kullanıcı Giriş: mryed Şifre: 123 <br>
-![alt text](https://imgyukle.com/f/2022/01/09/oL2ahA.png) <br>
+![alt text](https://mryed.com/wp-content/uploads/2022/02/c-admin-paneli.png) <br>
 Admin Paneli (Kasa geliri: Alış-satışlardan alınan komisyonu temsil etmektedir.) <br>
 ![alt text](https://imgyukle.com/f/2022/01/09/oL2qTY.png) <br>
 Kullanıcı işlemleri: <br>
