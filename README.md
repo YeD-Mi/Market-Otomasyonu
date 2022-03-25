@@ -15,4 +15,4 @@ Admin Paneli (Kasa geliri: Alış-satışlardan alınan komisyonu temsil etmekte
 Kullanıcı işlemleri: <br>
 ![alt text](https://mryed.com/wp-content/uploads/2022/02/veritabani-c-ornek.png) <br>
 Ürün işlemleri: <br>
-![alt text](https://mryed.com/wp-content/uploads/2022/02/veritanina-veri-ekleme.png) <br>) <br>
+![alt text](https://mryed.com/wp-content/uploads/2022/02/veritanina-veri-ekleme.png)
