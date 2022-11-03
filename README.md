@@ -1,4 +1,5 @@
 # Market-Otomasyonu
+Uygulamayı daha detaylı incelemek için;  [mryed.com](https://mryed.com/yazilim/c-alisveris-uygulamasi/).
 **Ürün alış-veriş platformu** <br>
 ![alt text](https://mryed.com/wp-content/uploads/2022/02/c-borsa-proje.png) <br>
 Üyelik Paneli: <br>
